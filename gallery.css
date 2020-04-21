@@ -1,25 +1,19 @@
-body
+.body
 {
-	padding-top: 70px;
-}
-.jumbotron
-{
-	color:  #10b4c9;
-	background: #c6bdde;
+	background-color: pink;
 }
 #yo
 {
-	color: #c91054;
+	text-align: center;
 }
-.navbar-inverse
+.one
 {
-	background:  #f5b78c;
+	font-size: 30px;
+	text-align: center;
 }
-.navbar-inverse .navbar-brand
+#five
 {
-	color: white;
-}
-.navbar-inverse .navbar-nav>li>a
-{
-	color: white;
+	width: 800px;
+	height: 450px;
+
 }
